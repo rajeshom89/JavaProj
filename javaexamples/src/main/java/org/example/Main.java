@@ -7,4 +7,6 @@ public class Main {
     String username = "user";
     String password = "password";
 
+    String pass = "password";
+
 }
