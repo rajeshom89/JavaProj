@@ -8,5 +8,7 @@ public class Main {
     String password = "password";
 
     String pass = "password";
+    
+    System.out.println("I am a new line")
 
 }
