@@ -1,4 +1,4 @@
-ame: Codeball
+Name: Codeball
 on:
   pull_request: {}
   pull_request_review_comment:
